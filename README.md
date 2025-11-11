@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# Hi, I’m Yujeong Lim, a student at Jeju National University majoring in Artificial Intelligence.
+
 <!--
 **routingg/routingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
